@@ -12,7 +12,7 @@
 </a>  
 <br><br>
 <a href="https://github.com/SiHoonChris/CodingJavaProject2_Minesweeper">
- <img src="https://user-images.githubusercontent.com/109140000/204074033-ecf0daad-34fb-4190-b01c-27b009e00315.png">
+ <img src="https://user-images.githubusercontent.com/109140000/227390597-763e69d4-2afe-45aa-a1a2-6b86d0470e0b.gif">
 </a>  
 <br><br>
 <a href="https://github.com/SiHoonChris/CodingJavaProject4_Portfolio_Builder">
