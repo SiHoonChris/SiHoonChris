@@ -1,4 +1,4 @@
-# Portfolio (Click!)
+# Toy Projects (Click!)
 <a href="https://github.com/SiHoonChris/CodingPythonProject1_Financial_Report_Downloader">
  <img src="https://user-images.githubusercontent.com/109140000/208286079-c5e25b13-96c1-4f1b-8313-36fcdbe7bc5f.png">
 </a>  
