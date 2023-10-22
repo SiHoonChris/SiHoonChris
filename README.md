@@ -1,4 +1,9 @@
 # Currently Working On  
+<a href="https://github.com/SiHoonChris/Into_A_New_Phase">
+  <img src="https://user-images.githubusercontent.com/109140000/277168420-018ad223-b11b-4411-9ed2-52b18534345e.png">
+</a>
+
+<hr>
 
 # Previous Projects (Click'em!)
 <a href="https://github.com/SiHoonChris/CodingPythonProject1_Financial_Report_Downloader">
